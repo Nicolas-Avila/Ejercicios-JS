@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+.muestra, .muestra2, .calculo, .viaje{
+    display: flex;
+    flex-direction: row;
+    border: solid 2px black;
+}
+p{
+    margin-right: 15px;
+}
